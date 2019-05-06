@@ -6,12 +6,13 @@ Gig Task: Create a Product Page
 
 ----
 
-1. Research a 2019 Top 10 Instrument (on a list, or top-rated on Amazon/Online Music Sales Sites)
+1. Select one 2019 Top 10 Instrument (on a list, or top-rated on Amazon/Online Music Sales Sites)
+2. Ensure that the selected instruments is not already in the Catchy Riff Products Sheet (see below)
 
 ----
 
-2. Find any retail vender online, preferably the one with the lowest price (don't do much research)
-3. Create Product Entry Line Item on Google Products Sheet (use provided Google Sheets link)
+3. Find any retail vender online, preferably the one with the lowest price (don't do much research)
+4. Create Product Entry Line Item on Google Products Sheet (use provided Google Sheets link)
 	- Create an SKU 
 		i. Use an abbreviated form of the product manufactuer
 		ii. Use an abbreviated form of the product name or external SKU
@@ -24,10 +25,10 @@ Gig Task: Create a Product Page
 	
 ----
 	
-4. Login to the Shop Admin Page
+5. Login to the Shop Admin Page
     - URL: https://catchyriffinstruments.com/admin
     - Login is provided in the one-time secret 
-5. Create a product page on Shop Website
+6. Create a product page on Shop Website
 	- Title format `Instrument Type - Instrument Name/Model`
 		i. If the vendor name is included in the title, use a short form, preferably one word
 	- Include a description formatted similar to existing product pages
@@ -43,6 +44,6 @@ Gig Task: Create a Product Page
 	
 ----
 
-6. Upon completion of the above tasks, include the product name and link to the product page on the site in the ticket/work item
-7. After review on the page, you will be paid for the task. 
+7. Upon completion of the above tasks, include the product name and link to the product page on the site in the ticket/work item
+8. After review on the page, you will be paid for the task. 
 

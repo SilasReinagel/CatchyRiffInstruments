@@ -14,11 +14,11 @@ Gig Task: Create a Product Page
 3. Find any retail vender online, preferably the one with the lowest price (don't do much research)
 4. Create Product Entry Line Item on Google Products Sheet (use provided Google Sheets link)
 	- Create an SKU 
-		i. Use an abbreviated form of the product manufactuer
+		i. Use an abbreviated form of the product manufacturer
 		ii. Use an abbreviated form of the product name or external SKU
 		iii. If application, use an abbreviated form of a variant identifier
 	- Add Vendor name and item Cost
-	- Select a price that will result in at least 10% profit
+	- Select a price that will result in at least 10% profit, and no less than $20 profit
 	- Use `Prestige Pricing`, round up to the nearest $10 value, or $100 value if close enough
 		i. $100 instead of $89
 		ii. $240 instead of $239
@@ -31,6 +31,9 @@ Gig Task: Create a Product Page
 6. Create a product page on Shop Website
 	- Title format `Instrument Type - Instrument Name/Model`
 		i. If the vendor name is included in the title, use a short form, preferably one word
+		ii. Name after the dash should be no more than 5 words
+		iii. Exclude technical details from the title
+	- Vendor Name should be the instrument Manufacturer (i.e. Fender/Pearl/MAudio/etc...)
 	- Include a description formatted similar to existing product pages
 		i. You can copy-paste from another website listing, and then tune it a little bit
 		ii. Start the description with a bold product name

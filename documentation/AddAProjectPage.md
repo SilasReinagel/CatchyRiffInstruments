@@ -29,9 +29,9 @@ Gig Task: Create a Product Page
     - URL: https://catchyriffinstruments.com/admin
     - Login is provided in the one-time secret 
 6. Create a product page on Shop Website
-	- Title format `Instrument Type - Instrument Name/Model`
+	- Title format `Instrument Name/Model`
 		i. If the vendor name is included in the title, use a short form, preferably one word
-		ii. Name after the dash should be no more than 5 words
+		ii. Name should be no more than 5 words
 		iii. Exclude technical details from the title
 	- Vendor Name should be the instrument Manufacturer (i.e. Fender/Pearl/MAudio/etc...)
 	- Include a description formatted similar to existing product pages
@@ -44,6 +44,9 @@ Gig Task: Create a Product Page
 		iii. The first image in the set should be in Landscape view
     - Should be marked to not have Shopify manage inventory quantities
 	- Fill in other fields and information
+	- SEO Information 
+		- Page title should start with the `Product Type - ` before the product name
+		- URL should be short, and use dashes
 	
 ----
 

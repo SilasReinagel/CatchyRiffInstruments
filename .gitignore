@@ -2,3 +2,4 @@
 .idea/*
 *workspace.xml
 *config.yml
+*.vscode*
